@@ -1,6 +1,6 @@
 ![readmebox](https://github.com/raihnkhalid/raihnkhalid/assets/80157695/df7d8baf-16dc-49ab-93cf-bd9b773955ef)
 
-Try ReadmeBox on https://www.readmebox.com
+- Currently focus learning on Laravel and Python ✨
 
 <!--
 **raihnkhalid/raihnkhalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
